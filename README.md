@@ -42,16 +42,22 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 ## UI
 ### Input 
 Password input:
+
 ![Password input](password-input.png)
 Empty password input:
+
 ![Empty password input](password-input-empty.png)
 ### Toast 
 Toast fail
+
 ![Toast fail](toast-fail.png)
 Toast success
+
 ![alt text](toast-success.png)
 ### Sidebar 
 Sidebar
+
 ![sidebar](asidebar.png)
 Sidebar with submenus
+
 ![sidebar with submenus](asidebar-accordion.png)
