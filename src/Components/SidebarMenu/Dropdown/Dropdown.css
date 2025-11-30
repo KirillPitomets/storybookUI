@@ -1,0 +1,10 @@
+.dropdown-menu {
+  list-style: none;
+  overflow: hidden;
+  max-height: 0;
+}
+
+.dropdown-menu_active {
+  max-height: 100%
+}
+
